@@ -12,3 +12,5 @@ const articleService = async () => {
 };
 
 export default articleService;
+
+articleService.js
